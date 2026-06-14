@@ -32,14 +32,6 @@ npm run dev
 npm run build
 ```
 
-## Notes for GitHub
-
-Before publishing the repository:
-
-- Make sure no API keys or secrets are committed
-- Add a screenshot to the README if you want the repo to look more complete
-- If you deploy the app, add the live demo link near the top of this file
-
 ## Data sources
 
 - NWS API documentation: https://www.weather.gov/documentation/services-web-api
